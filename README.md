@@ -1,7 +1,8 @@
 GERBER Files for LA1K 5-Pole Diplexer board. Should be compatible with most online PCB-ordering sites.
 
-PCBWay 2-layer service verified on prototype.
+PCBWay(https://www.pcbway.com/) 2-layer service verified on prototype.
 
+![](https://github.com/la1k/LA1K-5-Pole-Diplexer/blob/master/img/Screenshot_1.png?raw=true)
 
 NC Drill Data:
       Plated Drill file for layers 1-2           : duplexer_board-1-2.drl
